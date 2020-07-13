@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm a Swedish web application developer by day, gamer dad by night. This is what I do online:
+
+- 🐦 Tweet on [Twitter](https://twitter.com/spoike)
+- 🎨 Draw stuff on [DeviantArt](https://www.deviantart.com/workshop)
+- 🥳 Occasionally work and host Leethack, a coder competition event
+- 🏥 Sometimes help with fix PR's and issue reporting on various Github projects
+
+Now go bother [swyx](https://github.com/sw-yx).
+
 <!--
 **spoike/spoike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
