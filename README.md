@@ -1,25 +1,5 @@
-### Hi there 👋
+### Mikael Brassman
 
-I'm a Swedish web application developer by day, gamer dad by night. This is what I do online:
+[![Twitter Badge](https://img.shields.io/badge/-@spoike-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/spoike)](https://twitter.com/spoike) [![Linkedin Badge](https://img.shields.io/badge/-spoike-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/spoike/)](https://www.linkedin.com/in/spoike) [![Deviant Art Badge](https://img.shields.io/badge/-workshop-06f286?style=flat-square&logo=Deviantart&labelColor=06f286&logoColor=white)](https://www.deviantart.com/workshop)
 
-- 🐦 Tweet on [Twitter](https://twitter.com/spoike)
-- 🎨 Draw stuff on [DeviantArt](https://www.deviantart.com/workshop)
-- 🥳 Occasionally work and host Leethack, a coder competition event
-- 🏥 Sometimes help with fix PR's and issue reporting on various Github projects
-
-Now go bother [swyx](https://github.com/sw-yx).
-
-<!--
-**spoike/spoike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Swedish web application developer by day, gamer dad by night
